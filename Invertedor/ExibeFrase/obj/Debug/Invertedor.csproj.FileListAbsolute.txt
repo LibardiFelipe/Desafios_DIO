@@ -1,0 +1,8 @@
+D:\1_Projetos DIO\Desafios_DIO\Invertedor\Invertedor\bin\Debug\Invertedor.exe.config
+D:\1_Projetos DIO\Desafios_DIO\Invertedor\Invertedor\bin\Debug\Invertedor.exe
+D:\1_Projetos DIO\Desafios_DIO\Invertedor\Invertedor\bin\Debug\Invertedor.pdb
+D:\1_Projetos DIO\Desafios_DIO\Invertedor\Invertedor\obj\Debug\Invertedor.csproj.AssemblyReference.cache
+D:\1_Projetos DIO\Desafios_DIO\Invertedor\Invertedor\obj\Debug\Invertedor.csproj.SuggestedBindingRedirects.cache
+D:\1_Projetos DIO\Desafios_DIO\Invertedor\Invertedor\obj\Debug\Invertedor.csproj.CoreCompileInputs.cache
+D:\1_Projetos DIO\Desafios_DIO\Invertedor\Invertedor\obj\Debug\Invertedor.exe
+D:\1_Projetos DIO\Desafios_DIO\Invertedor\Invertedor\obj\Debug\Invertedor.pdb
